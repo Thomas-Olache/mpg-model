@@ -5,6 +5,7 @@ Predictive Modeling In Python - P1
 # Data Gathering
 
 
+
 # Data Exploration
 
   ## Visualization
@@ -17,3 +18,7 @@ Predictive Modeling In Python - P1
   5. Irrelevant Features
 
 # Model Building
+
+
+# Report and Conclusion
+
